@@ -1,0 +1,17 @@
+C:\Users\flagm\source\repos\Path-DCC\Sources\Services\Ordering\Ordering.Data\obj\Debug\net7.0\Ordering.Data.csproj.AssemblyReference.cache
+C:\Users\flagm\source\repos\Path-DCC\Sources\Services\Ordering\Ordering.Data\obj\Debug\net7.0\Ordering.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flagm\source\repos\Path-DCC\Sources\Services\Ordering\Ordering.Data\obj\Debug\net7.0\Ordering.Data.AssemblyInfoInputs.cache
+C:\Users\flagm\source\repos\Path-DCC\Sources\Services\Ordering\Ordering.Data\obj\Debug\net7.0\Ordering.Data.AssemblyInfo.cs
+C:\Users\flagm\source\repos\Path-DCC\Sources\Services\Ordering\Ordering.Data\obj\Debug\net7.0\Ordering.Data.csproj.CoreCompileInputs.cache
+C:\Users\flagm\source\repos\Path-DCC\Sources\Services\Ordering\Ordering.Data\bin\Debug\net7.0\Ordering.Data.deps.json
+C:\Users\flagm\source\repos\Path-DCC\Sources\Services\Ordering\Ordering.Data\bin\Debug\net7.0\Ordering.Data.runtimeconfig.json
+C:\Users\flagm\source\repos\Path-DCC\Sources\Services\Ordering\Ordering.Data\bin\Debug\net7.0\Ordering.Data.dll
+C:\Users\flagm\source\repos\Path-DCC\Sources\Services\Ordering\Ordering.Data\bin\Debug\net7.0\Ordering.Data.pdb
+C:\Users\flagm\source\repos\Path-DCC\Sources\Services\Ordering\Ordering.Data\bin\Debug\net7.0\Ordering.Core.dll
+C:\Users\flagm\source\repos\Path-DCC\Sources\Services\Ordering\Ordering.Data\bin\Debug\net7.0\Ordering.Core.pdb
+C:\Users\flagm\source\repos\Path-DCC\Sources\Services\Ordering\Ordering.Data\obj\Debug\net7.0\Ordering.Data.csproj.CopyComplete
+C:\Users\flagm\source\repos\Path-DCC\Sources\Services\Ordering\Ordering.Data\obj\Debug\net7.0\Ordering.Data.dll
+C:\Users\flagm\source\repos\Path-DCC\Sources\Services\Ordering\Ordering.Data\obj\Debug\net7.0\refint\Ordering.Data.dll
+C:\Users\flagm\source\repos\Path-DCC\Sources\Services\Ordering\Ordering.Data\obj\Debug\net7.0\Ordering.Data.pdb
+C:\Users\flagm\source\repos\Path-DCC\Sources\Services\Ordering\Ordering.Data\obj\Debug\net7.0\Ordering.Data.genruntimeconfig.cache
+C:\Users\flagm\source\repos\Path-DCC\Sources\Services\Ordering\Ordering.Data\obj\Debug\net7.0\ref\Ordering.Data.dll

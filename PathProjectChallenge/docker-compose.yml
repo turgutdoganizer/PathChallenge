@@ -1,0 +1,43 @@
+version: '3.4'
+
+services:
+  identityserver.api:
+    image: ${DOCKER_REGISTRY-}identityserverapi
+    build:
+      context: .
+      dockerfile: Sources/Services/Identity/IdentityServer.API/Dockerfile
+
+  basket.api:
+    image: ${DOCKER_REGISTRY-}basketapi
+    build:
+      context: .
+      dockerfile: Sources/Services/Basket/Basket.API/Dockerfile
+
+
+  catalog.api:
+    image: ${DOCKER_REGISTRY-}catalogapi
+    build:
+      context: .
+      dockerfile: Sources/Services/Catalog/Catalog.API/Dockerfile
+
+
+  catalog.workerservice:
+    image: ${DOCKER_REGISTRY-}catalogworkerservice
+    build:
+      context: .
+      dockerfile: Sources/Services/Catalog/Catalog.WorkerService/Dockerfile
+
+
+  ordering.api:
+    image: ${DOCKER_REGISTRY-}orderingapi
+    build:
+      context: .
+      dockerfile: Sources/Services/Ordering/Ordering.API/Dockerfile
+
+
+  ordering.event.workerservice:
+    image: ${DOCKER_REGISTRY-}orderingeventworkerservice
+    build:
+      context: .
+      dockerfile: Sources/Services/Ordering/Ordering.Event.WorkerService/Dockerfile
+

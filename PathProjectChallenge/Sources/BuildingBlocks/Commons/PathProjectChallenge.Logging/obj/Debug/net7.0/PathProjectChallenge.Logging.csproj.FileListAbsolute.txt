@@ -1,0 +1,12 @@
+C:\Users\futur\source\repos\PathProjectChallenge\Sources\BuildingBlocks\Commons\PathProjectChallenge.Logging\bin\Debug\net7.0\PathProjectChallenge.Logging.deps.json
+C:\Users\futur\source\repos\PathProjectChallenge\Sources\BuildingBlocks\Commons\PathProjectChallenge.Logging\bin\Debug\net7.0\PathProjectChallenge.Logging.dll
+C:\Users\futur\source\repos\PathProjectChallenge\Sources\BuildingBlocks\Commons\PathProjectChallenge.Logging\bin\Debug\net7.0\PathProjectChallenge.Logging.pdb
+C:\Users\futur\source\repos\PathProjectChallenge\Sources\BuildingBlocks\Commons\PathProjectChallenge.Logging\obj\Debug\net7.0\PathProjectChallenge.Logging.csproj.AssemblyReference.cache
+C:\Users\futur\source\repos\PathProjectChallenge\Sources\BuildingBlocks\Commons\PathProjectChallenge.Logging\obj\Debug\net7.0\PathProjectChallenge.Logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\futur\source\repos\PathProjectChallenge\Sources\BuildingBlocks\Commons\PathProjectChallenge.Logging\obj\Debug\net7.0\PathProjectChallenge.Logging.AssemblyInfoInputs.cache
+C:\Users\futur\source\repos\PathProjectChallenge\Sources\BuildingBlocks\Commons\PathProjectChallenge.Logging\obj\Debug\net7.0\PathProjectChallenge.Logging.AssemblyInfo.cs
+C:\Users\futur\source\repos\PathProjectChallenge\Sources\BuildingBlocks\Commons\PathProjectChallenge.Logging\obj\Debug\net7.0\PathProjectChallenge.Logging.csproj.CoreCompileInputs.cache
+C:\Users\futur\source\repos\PathProjectChallenge\Sources\BuildingBlocks\Commons\PathProjectChallenge.Logging\obj\Debug\net7.0\PathProjectChallenge.Logging.dll
+C:\Users\futur\source\repos\PathProjectChallenge\Sources\BuildingBlocks\Commons\PathProjectChallenge.Logging\obj\Debug\net7.0\refint\PathProjectChallenge.Logging.dll
+C:\Users\futur\source\repos\PathProjectChallenge\Sources\BuildingBlocks\Commons\PathProjectChallenge.Logging\obj\Debug\net7.0\PathProjectChallenge.Logging.pdb
+C:\Users\futur\source\repos\PathProjectChallenge\Sources\BuildingBlocks\Commons\PathProjectChallenge.Logging\obj\Debug\net7.0\ref\PathProjectChallenge.Logging.dll

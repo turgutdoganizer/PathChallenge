@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>dotnet-Ordering.Event.WorkerService-264441b5-3ff9-4e2f-8c0e-054db2ea360b</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <DockerfileContext>..\..\..\..</DockerfileContext>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EventStore.Client" Version="22.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="7.0.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.17.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\BuildingBlocks\Commons\PathProjectChallenge.Logging\PathProjectChallenge.Logging.csproj" />
+    <ProjectReference Include="..\Ordering.Core\Ordering.Core.csproj" />
+    <ProjectReference Include="..\Ordering.Data\Ordering.Data.csproj" />
+  </ItemGroup>
+</Project>

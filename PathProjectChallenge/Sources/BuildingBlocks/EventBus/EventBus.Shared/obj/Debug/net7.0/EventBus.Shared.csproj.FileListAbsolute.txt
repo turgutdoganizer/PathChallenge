@@ -1,0 +1,10 @@
+C:\Users\futur\source\repos\PathProjectChallenge\EventBus.Shared\obj\Debug\net7.0\EventBus.Shared.csproj.AssemblyReference.cache
+C:\Users\futur\source\repos\PathProjectChallenge\EventBus.Shared\obj\Debug\net7.0\EventBus.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\futur\source\repos\PathProjectChallenge\EventBus.Shared\obj\Debug\net7.0\EventBus.Shared.AssemblyInfoInputs.cache
+C:\Users\futur\source\repos\PathProjectChallenge\EventBus.Shared\obj\Debug\net7.0\EventBus.Shared.AssemblyInfo.cs
+C:\Users\futur\source\repos\PathProjectChallenge\EventBus.Shared\obj\Debug\net7.0\EventBus.Shared.csproj.CoreCompileInputs.cache
+C:\Users\futur\source\repos\PathProjectChallenge\Sources\BuildingBlocks\EventBus\EventBus.Shared\obj\Debug\net7.0\EventBus.Shared.csproj.AssemblyReference.cache
+C:\Users\futur\source\repos\PathProjectChallenge\Sources\BuildingBlocks\EventBus\EventBus.Shared\obj\Debug\net7.0\EventBus.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\futur\source\repos\PathProjectChallenge\Sources\BuildingBlocks\EventBus\EventBus.Shared\obj\Debug\net7.0\EventBus.Shared.AssemblyInfoInputs.cache
+C:\Users\futur\source\repos\PathProjectChallenge\Sources\BuildingBlocks\EventBus\EventBus.Shared\obj\Debug\net7.0\EventBus.Shared.AssemblyInfo.cs
+C:\Users\futur\source\repos\PathProjectChallenge\Sources\BuildingBlocks\EventBus\EventBus.Shared\obj\Debug\net7.0\EventBus.Shared.csproj.CoreCompileInputs.cache

@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="11.4.0" />
+    <PackageReference Include="MediatR" Version="11.1.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\BuildingBlocks\Commons\PathProjectChallenge.Core\PathProjectChallenge.Core.csproj" />
+    <ProjectReference Include="..\..\..\BuildingBlocks\Commons\PathProjectChallenge.Data\PathProjectChallenge.Data.csproj" />
+    <ProjectReference Include="..\..\..\BuildingBlocks\Commons\PathProjectChallenge.Service\PathProjectChallenge.Service.csproj" />
+    <ProjectReference Include="..\Catalog.Core\Catalog.Core.csproj" />
+    <ProjectReference Include="..\Catalog.Data\Catalog.Data.csproj" />
+    <ProjectReference Include="..\Catalog.Dto\Catalog.Dto.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Services\Categories\Handlers\Base\" />
+    <Folder Include="Services\Categories\Queries\" />
+    <Folder Include="Services\Products\Handlers\Base\" />
+    <Folder Include="Services\Products\Queries\Queries\" />
+  </ItemGroup>
+
+</Project>

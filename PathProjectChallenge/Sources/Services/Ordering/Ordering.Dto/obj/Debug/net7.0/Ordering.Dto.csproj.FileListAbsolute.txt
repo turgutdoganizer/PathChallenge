@@ -1,0 +1,12 @@
+C:\Users\flagm\source\repos\Path-DCC\Sources\Services\Ordering\Ordering.Dto\bin\Debug\net7.0\Ordering.Dto.deps.json
+C:\Users\flagm\source\repos\Path-DCC\Sources\Services\Ordering\Ordering.Dto\bin\Debug\net7.0\Ordering.Dto.dll
+C:\Users\flagm\source\repos\Path-DCC\Sources\Services\Ordering\Ordering.Dto\bin\Debug\net7.0\Ordering.Dto.pdb
+C:\Users\flagm\source\repos\Path-DCC\Sources\Services\Ordering\Ordering.Dto\obj\Debug\net7.0\Ordering.Dto.csproj.AssemblyReference.cache
+C:\Users\flagm\source\repos\Path-DCC\Sources\Services\Ordering\Ordering.Dto\obj\Debug\net7.0\Ordering.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flagm\source\repos\Path-DCC\Sources\Services\Ordering\Ordering.Dto\obj\Debug\net7.0\Ordering.Dto.AssemblyInfoInputs.cache
+C:\Users\flagm\source\repos\Path-DCC\Sources\Services\Ordering\Ordering.Dto\obj\Debug\net7.0\Ordering.Dto.AssemblyInfo.cs
+C:\Users\flagm\source\repos\Path-DCC\Sources\Services\Ordering\Ordering.Dto\obj\Debug\net7.0\Ordering.Dto.csproj.CoreCompileInputs.cache
+C:\Users\flagm\source\repos\Path-DCC\Sources\Services\Ordering\Ordering.Dto\obj\Debug\net7.0\Ordering.Dto.dll
+C:\Users\flagm\source\repos\Path-DCC\Sources\Services\Ordering\Ordering.Dto\obj\Debug\net7.0\refint\Ordering.Dto.dll
+C:\Users\flagm\source\repos\Path-DCC\Sources\Services\Ordering\Ordering.Dto\obj\Debug\net7.0\Ordering.Dto.pdb
+C:\Users\flagm\source\repos\Path-DCC\Sources\Services\Ordering\Ordering.Dto\obj\Debug\net7.0\ref\Ordering.Dto.dll

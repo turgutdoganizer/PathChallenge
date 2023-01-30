@@ -1,0 +1,261 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\futur\\source\\repos\\PathProjectChallenge\\Sources\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\futur\\source\\repos\\PathProjectChallenge\\Sources\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\futur\\source\\repos\\PathProjectChallenge\\Sources\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj",
+        "projectName": "Ordering.API",
+        "projectPath": "C:\\Users\\futur\\source\\repos\\PathProjectChallenge\\Sources\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj",
+        "packagesPath": "C:\\Users\\futur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\futur\\source\\repos\\PathProjectChallenge\\Sources\\Services\\Ordering\\Ordering.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\futur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\futur\\source\\repos\\PathProjectChallenge\\Sources\\Services\\Ordering\\Ordering.Core\\Ordering.Core.csproj": {
+                "projectPath": "C:\\Users\\futur\\source\\repos\\PathProjectChallenge\\Sources\\Services\\Ordering\\Ordering.Core\\Ordering.Core.csproj"
+              },
+              "C:\\Users\\futur\\source\\repos\\PathProjectChallenge\\Sources\\Services\\Ordering\\Ordering.Dto\\Ordering.Dto.csproj": {
+                "projectPath": "C:\\Users\\futur\\source\\repos\\PathProjectChallenge\\Sources\\Services\\Ordering\\Ordering.Dto\\Ordering.Dto.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AspNetCore.HealthChecks.EventStore": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "AspNetCore.HealthChecks.MongoDb": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "AspNetCore.HealthChecks.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "AspNetCore.HealthChecks.UI.Client": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "MassTransit.AspNetCore": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            },
+            "MassTransit.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.17.0, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[7.2.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\futur\\source\\repos\\PathProjectChallenge\\Sources\\Services\\Ordering\\Ordering.Core\\Ordering.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\futur\\source\\repos\\PathProjectChallenge\\Sources\\Services\\Ordering\\Ordering.Core\\Ordering.Core.csproj",
+        "projectName": "Ordering.Core",
+        "projectPath": "C:\\Users\\futur\\source\\repos\\PathProjectChallenge\\Sources\\Services\\Ordering\\Ordering.Core\\Ordering.Core.csproj",
+        "packagesPath": "C:\\Users\\futur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\futur\\source\\repos\\PathProjectChallenge\\Sources\\Services\\Ordering\\Ordering.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\futur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "EventStore.Client": {
+              "target": "Package",
+              "version": "[22.0.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Extensions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\futur\\source\\repos\\PathProjectChallenge\\Sources\\Services\\Ordering\\Ordering.Dto\\Ordering.Dto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\futur\\source\\repos\\PathProjectChallenge\\Sources\\Services\\Ordering\\Ordering.Dto\\Ordering.Dto.csproj",
+        "projectName": "Ordering.Dto",
+        "projectPath": "C:\\Users\\futur\\source\\repos\\PathProjectChallenge\\Sources\\Services\\Ordering\\Ordering.Dto\\Ordering.Dto.csproj",
+        "packagesPath": "C:\\Users\\futur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\futur\\source\\repos\\PathProjectChallenge\\Sources\\Services\\Ordering\\Ordering.Dto\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\futur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

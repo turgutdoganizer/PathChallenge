@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net7.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+	<ItemGroup>
+		<PackageReference Include="FluentMigrator" Version="3.3.2" />
+		<PackageReference Include="FluentMigrator.Runner" Version="3.3.2" />
+		<PackageReference Include="linq2db" Version="4.3.0" />
+		<PackageReference Include="Microsoft.Data.SqlClient" Version="5.0.1" />
+		<PackageReference Include="MySqlConnector" Version="2.2.2" />
+		<PackageReference Include="Npgsql" Version="7.0.0" />
+		<PackageReference Include="System.Configuration.ConfigurationManager" Version="7.0.0" />
+		<PackageReference Include="System.Net.NameResolution" Version="4.3.0" />
+	</ItemGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\..\..\BuildingBlocks\Commons\PathProjectChallenge.Core\PathProjectChallenge.Core.csproj" />
+		<ProjectReference Include="..\..\..\BuildingBlocks\Commons\PathProjectChallenge.Data\PathProjectChallenge.Data.csproj" />
+		<ProjectReference Include="..\Catalog.Core\Catalog.Core.csproj" />
+	</ItemGroup>
+	<ItemGroup>
+	  <Folder Include="EventSourcing\Streams\" />
+	</ItemGroup>
+
+</Project>
